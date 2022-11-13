@@ -1,5 +1,6 @@
 import { StyleSheet, Text, View } from 'react-native'
 import React from 'react'
+import Styles from '../global/Styles.js'
 
 const App = () => {
   return (
